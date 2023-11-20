@@ -1,0 +1,1775 @@
+[
+    {
+        "carga": "Air Conditioning Complex",
+        "dlc": "Special Transport DLC",
+        "icon": "",
+        "peso": "29999.692167060002 kg(s)",
+        "types": [
+            "Lowboy Extendable Trailer"
+        ]
+    },
+    {
+        "carga": "Aircraft Engine",
+        "dlc": "Washington",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/e/e2/ATS_Cargo_icon_Aircraft_Engine.png/revision/latest?cb=20221004173650",
+        "peso": "5399.56357248 kg(s)",
+        "types": [
+            "Drop Deck",
+            "Flatbed"
+        ]
+    },
+    {
+        "carga": "All Terrain Crane",
+        "dlc": "Heavy Cargo Pack",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/f/ff/ATS_Cargo_icon_All_Terrain_Crane.png/revision/latest?cb=20221125111551",
+        "peso": "35153.408675 kg(s)",
+        "types": [
+            "Lowboy Double",
+            "Lowboy Triple"
+        ]
+    },
+    {
+        "carga": "Aromatics",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/8/8e/ATS_Cargo_icon_Aromatics.png/revision/latest?cb=20220829075133",
+        "peso": "12927.382545 kg(s)",
+        "types": [
+            "Fuel Tank"
+        ]
+    },
+    {
+        "carga": "Articulated Hauler Volvo A25G",
+        "dlc": "Volvo Construction Equipment DLC",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/f/f8/ATS_Cargo_icon_Articulated_Hauler_Volvo_A25G.png/revision/latest?cb=20221125114321",
+        "peso": "24999.743472550002 kg(s)",
+        "types": [
+            "Lowboy Double",
+            "Lowboy Triple"
+        ]
+    },
+    {
+        "carga": "Backhoe Loader",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/6/68/ATS_Cargo_icon_Backhoe_Loader.png/revision/latest?cb=20221119050630",
+        "peso": "7484.274105 kg(s)",
+        "types": [
+            "Drop Deck",
+            "Lowboy"
+        ]
+    },
+    {
+        "carga": "Beet Harvester",
+        "dlc": "Montana",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/f/fe/ATS_Cargo_icon_Beet_Harvester.png/revision/latest?cb=20221119050731",
+        "peso": "29483.504050000003 kg(s)",
+        "types": [
+            "Lowboy Double",
+            "Lowboy Triple"
+        ]
+    },
+    {
+        "carga": "Beverages",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/a/a5/ATS_Cargo_icon_Beverages.png/revision/latest?cb=20220828095311",
+        "peso": "16302.1097778 kg(s)",
+        "types": [
+            "Container Carrier",
+            "Dry Van",
+            "Insulated",
+            "Refrigerated"
+        ]
+    },
+    {
+        "carga": "Boat",
+        "dlc": "Washington",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/2/2c/ATS_Cargo_icon_Boat.png/revision/latest?cb=20221119050823",
+        "peso": "7937.866475000001 kg(s)",
+        "types": [
+            "Lowboy Boat Trailer"
+        ]
+    },
+    {
+        "carga": "Bucket Volvo SPN P T SEG",
+        "dlc": "Volvo Construction Equipment DLC",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/0/09/ATS_Cargo_icon_Rock_Bucket_Volvo_SPN_P_T_SEG.png/revision/latest?cb=20221125114408",
+        "peso": "3599.70904832 kg(s)",
+        "types": [
+            "Lowboy"
+        ]
+    },
+    {
+        "carga": "Bulldozer",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/d/d3/ATS_Cargo_icon_Bulldozer.png/revision/latest?cb=20221119050910",
+        "peso": "18189.054037 kg(s)",
+        "types": [
+            "Lowboy"
+        ]
+    },
+    {
+        "carga": "Butter",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/1/15/ATS_Cargo_icon_Butter.png/revision/latest?cb=20220829161340",
+        "peso": "14937.25033647 kg(s)",
+        "types": [
+            "Refrigerated"
+        ]
+    },
+    {
+        "carga": "Buttermilk",
+        "dlc": "Montana",
+        "icon": "",
+        "peso": "16602.84151911 kg(s)",
+        "types": [
+            "Refrigerated"
+        ]
+    },
+    {
+        "carga": "Cable Reel",
+        "dlc": "Heavy Cargo Pack",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/c/cb/ATS_Cargo_icon_Cable_Reel.png/revision/latest?cb=20221125112759",
+        "peso": "29937.09642 kg(s)",
+        "types": [
+            "Lowboy Double",
+            "Lowboy Triple"
+        ]
+    },
+    {
+        "carga": "Cables",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/0/07/ATS_Cargo_icon_Cables.png/revision/latest?cb=20221119051022",
+        "peso": "19731.268095 kg(s)",
+        "types": [
+            "Drop Deck",
+            "Flatbed",
+            "Lowboy"
+        ]
+    },
+    {
+        "carga": "Cans",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/a/ae/ATS_Cargo_icon_Cans.png/revision/latest?cb=20220828184530",
+        "peso": "20028.371097350002 kg(s)",
+        "types": [
+            "Dry Van",
+            "Insulated",
+            "Refrigerated"
+        ]
+    },
+    {
+        "carga": "Car Parts",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/1/16/ATS_Cargo_icon_Car_Parts.png/revision/latest?cb=20220828101702",
+        "peso": "7257.47792 kg(s)",
+        "types": [
+            "Container Carrier"
+        ]
+    },
+    {
+        "carga": "Cars",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/5/55/ATS_Cargo_icon_Cars.png/revision/latest?cb=20221119051208",
+        "peso": "7937.866475000001 kg(s)",
+        "types": [
+            "Car Transporter"
+        ]
+    },
+    {
+        "carga": "Cement",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/c/c2/ATS_Cargo_icon_Cement.png/revision/latest?cb=20220829135405",
+        "peso": "17236.51006 kg(s)",
+        "types": [
+            "Dry Bulk"
+        ]
+    },
+    {
+        "carga": "Cheese",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/9/95/ATS_Cargo_icon_Cheese.png/revision/latest?cb=20220829161431",
+        "peso": "12771.80036209 kg(s)",
+        "types": [
+            "Refrigerated"
+        ]
+    },
+    {
+        "carga": "Circuit Breakers",
+        "dlc": "Montana",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/3/34/ATS_Cargo_icon_Circuit_Breakers.png/revision/latest?cb=20221119051319",
+        "peso": "6799.80321867 kg(s)",
+        "types": [
+            "Drop Deck"
+        ]
+    },
+    {
+        "carga": "Clothes",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/9/95/ATS_Cargo_icon_Clothes.png/revision/latest?cb=20220828095351",
+        "peso": "12755.924629140001 kg(s)",
+        "types": [
+            "Container Carrier",
+            "Dry Van",
+            "Insulated",
+            "Refrigerated",
+            "Sliding Tarp"
+        ]
+    },
+    {
+        "carga": "Compactor Volvo SD160B",
+        "dlc": "Volvo Construction Equipment DLC",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/7/7c/ATS_Cargo_icon_Compactor_Volvo_SD160B.png/revision/latest?cb=20221125114332",
+        "peso": "16690.83843889 kg(s)",
+        "types": [
+            "Lowboy"
+        ]
+    },
+    {
+        "carga": "Computers",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/9/90/ATS_Cargo_icon_Computers.png/revision/latest?cb=20220828183707",
+        "peso": "7576.35335611 kg(s)",
+        "types": [
+            "Dry Van",
+            "Insulated",
+            "Refrigerated"
+        ]
+    },
+    {
+        "carga": "Concrete Barriers",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/c/cd/ATS_Cargo_icon_Concrete_Barriers.png/revision/latest?cb=20221125134133",
+        "peso": "10914.33960694 kg(s)",
+        "types": [
+            "Drop Deck",
+            "Flatbed"
+        ]
+    },
+    {
+        "carga": "Concrete Tubes (small)",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/5/55/ATS_Cargo_icon_Concrete_Tubes_small.png/revision/latest?cb=20220828115346",
+        "peso": "15149.985158000001 kg(s)",
+        "types": [
+            "Drop Deck",
+            "Flatbed"
+        ]
+    },
+    {
+        "carga": "Concrete Tubes (large)",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/6/6d/ATS_Cargo_icon_Concrete_Tubes_large.png/revision/latest?cb=20220828114139",
+        "peso": "19050.87954 kg(s)",
+        "types": [
+            "Drop Deck",
+            "Flatbed"
+        ]
+    },
+    {
+        "carga": "Construction Houses",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/6/6b/ATS_Cargo_icon_Construction_Houses.png/revision/latest?cb=20220828095500",
+        "peso": "14061.36347 kg(s)",
+        "types": [
+            "Container Carrier"
+        ]
+    },
+    {
+        "carga": "Cotton Harvester",
+        "dlc": "Heavy Cargo Pack",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/5/5f/ATS_Cargo_icon_Cotton_Harvester.png/revision/latest?cb=20221125111654",
+        "peso": "31751.465900000003 kg(s)",
+        "types": [
+            "Lowboy Double",
+            "Lowboy Triple"
+        ]
+    },
+    {
+        "carga": "Cotton Lint",
+        "dlc": "Texas",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/8/80/ATS_Cargo_icon_Cotton_Lint.png/revision/latest?cb=20221125134142",
+        "peso": "19527.151528500002 kg(s)",
+        "types": [
+            "Flatbed"
+        ]
+    },
+    {
+        "carga": "Cotton Seed",
+        "dlc": "Texas",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/0/02/ATS_Cargo_icon_Cotton_Seed.png/revision/latest?cb=20221125134150",
+        "peso": "20126.34704927 kg(s)",
+        "types": [
+            "Bulk Feed",
+            "Chip Van",
+            "Dry Bulk",
+            "Hopper"
+        ]
+    },
+    {
+        "carga": "Crawler Tractor",
+        "dlc": "Heavy Cargo Pack",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/4/46/ATS_Cargo_icon_Crawler_Tractor.png/revision/latest?cb=20221125111729",
+        "peso": "25174.376535000003 kg(s)",
+        "types": [
+            "Lowboy Double",
+            "Lowboy Triple"
+        ]
+    },
+    {
+        "carga": "Crude Oil",
+        "dlc": "Utah",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/d/d3/ATS_Cargo_icon_Crude_Oil.png/revision/latest?cb=20220829075025",
+        "peso": "16329.32532 kg(s)",
+        "types": [
+            "Fuel Tank"
+        ]
+    },
+    {
+        "carga": "Curtains",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/8/81/ATS_Cargo_icon_Curtains.png/revision/latest?cb=20220829064653",
+        "peso": "13190.012527230001 kg(s)",
+        "types": [
+            "Dry Van",
+            "Insulated",
+            "Refrigerated",
+            "Sliding Tarp"
+        ]
+    },
+    {
+        "carga": "Diesel",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/f/fe/ATS_Cargo_icon_Diesel.png/revision/latest?cb=20220829075057",
+        "peso": "16329.32532 kg(s)",
+        "types": [
+            "Fuel Tank"
+        ]
+    },
+    {
+        "carga": "Dry Fruits",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/b/bc/ATS_Cargo_icon_Dry_Fruits.png/revision/latest?cb=20220828095535",
+        "peso": "13004.94684027 kg(s)",
+        "types": [
+            "Container Carrier",
+            "Dry Van",
+            "Insulated",
+            "Refrigerated",
+            "Sliding Tarp"
+        ]
+    },
+    {
+        "carga": "Dry Milk",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/3/38/ATS_Cargo_icon_Dry_Milk.png/revision/latest?cb=20220828095601",
+        "peso": "18810.92917627 kg(s)",
+        "types": [
+            "Container Carrier",
+            "Dry Van",
+            "Insulated",
+            "Refrigerated",
+            "Sliding Tarp"
+        ]
+    },
+    {
+        "carga": "Dumpsters",
+        "dlc": "Montana",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/f/fd/ATS_Cargo_icon_Dumpsters.png/revision/latest?cb=20221119051602",
+        "peso": "19908.1691193 kg(s)",
+        "types": [
+            "Drop Deck",
+            "Flatbed"
+        ]
+    },
+    {
+        "carga": "Dynamite",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/6/67/ATS_Cargo_icon_Dynamite.png/revision/latest?cb=20220828183315",
+        "peso": "12700.586360000001 kg(s)",
+        "types": [
+            "Dry Van",
+            "Insulated",
+            "Refrigerated"
+        ]
+    },
+    {
+        "carga": "Electronic Components",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/3/38/ATS_Cargo_icon_Electronic_Components.png/revision/latest?cb=20220828095744",
+        "peso": "5079.78095163 kg(s)",
+        "types": [
+            "Container Carrier"
+        ]
+    },
+    {
+        "carga": "Empty Bottles",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/8/8f/ATS_Cargo_icon_Empty_Bottles.png/revision/latest?cb=20220828183628",
+        "peso": "17882.425594880002 kg(s)",
+        "types": [
+            "Dry Van",
+            "Insulated",
+            "Refrigerated"
+        ]
+    },
+    {
+        "carga": "Empty Pallets",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/f/fa/ATS_Cargo_icon_Empty_Pallets.png/revision/latest?cb=20220828184248",
+        "peso": "18213.548024980002 kg(s)",
+        "types": [
+            "Drop Deck",
+            "Dry Van",
+            "Flatbed",
+            "Insulated",
+            "Refrigerated",
+            "Sliding Tarp"
+        ]
+    },
+    {
+        "carga": "Ethane",
+        "dlc": "",
+        "icon": "",
+        "peso": "17154.8634334 kg(s)",
+        "types": [
+            "Gas Tank"
+        ]
+    },
+    {
+        "carga": "Excavated Soil",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/a/ae/ATS_Cargo_icon_Excavated_Soil.png/revision/latest?cb=20220828165608",
+        "peso": "17.69010243 kg(s)",
+        "types": [
+            "Dumper"
+        ]
+    },
+    {
+        "carga": "Excavator",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/d/db/ATS_Cargo_icon_Excavator.png/revision/latest?cb=20221119051703",
+        "peso": "17236.51006 kg(s)",
+        "types": [
+            "Lowboy"
+        ]
+    },
+    {
+        "carga": "Excavator Volvo EC220E",
+        "dlc": "Volvo Construction Equipment DLC",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/c/c4/ATS_Cargo_icon_Excavator_Volvo_EC220E.png/revision/latest?cb=20221125114344",
+        "peso": "20469.71647336 kg(s)",
+        "types": [
+            "Lowboy"
+        ]
+    },
+    {
+        "carga": "Excavator Volvo EW240E MH",
+        "dlc": "Volvo Construction Equipment DLC",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/b/be/ATS_Cargo_icon_Excavator_Volvo_EW240E_MH.png/revision/latest?cb=20221125114357",
+        "peso": "25999.9146484 kg(s)",
+        "types": [
+            "Lowboy Double",
+            "Lowboy Triple"
+        ]
+    },
+    {
+        "carga": "Fertilizer",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/3/30/ATS_Cargo_icon_Fertilizer.png/revision/latest?cb=20220828114346",
+        "peso": "13.6077711 kg(s)",
+        "types": [
+            "Drop Deck",
+            "Dry Van",
+            "Flatbed",
+            "Insulated",
+            "Refrigerated",
+            "Sliding Tarp"
+        ]
+    },
+    {
+        "carga": "Fireworks",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/6/67/ATS_Cargo_icon_Fireworks.png/revision/latest?cb=20220829161157",
+        "peso": "11.793401620000001 kg(s)",
+        "types": [
+            "Dry Van",
+            "Insulated",
+            "Refrigerated"
+        ]
+    },
+    {
+        "carga": "Flour",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/5/5d/ATS_Cargo_icon_Flour.png/revision/latest?cb=20220828095821",
+        "peso": "17.23651006 kg(s)",
+        "types": [
+            "Container Carrier",
+            "Dry Van",
+            "Insulated",
+            "Refrigerated",
+            "Sliding Tarp"
+        ]
+    },
+    {
+        "carga": "Forklifts",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/e/e3/ATS_Cargo_icon_Forklifts.png/revision/latest?cb=20221119051823",
+        "peso": "7937.866475000001 kg(s)",
+        "types": [
+            "Drop Deck",
+            "Lowboy"
+        ]
+    },
+    {
+        "carga": "Forwarder",
+        "dlc": "Forest Machinery",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/5/54/ATS_Cargo_icon_Forwarder.png/revision/latest?cb=20221125121947",
+        "peso": "19958.064280000002 kg(s)",
+        "types": [
+            "Lowboy",
+            "Lowboy Double",
+            "Lowboy Triple"
+        ]
+    },
+    {
+        "carga": "Frac Tank",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/2/28/ATS_Cargo_icon_Frac_Tank.png/revision/latest?cb=20221119051910",
+        "peso": "3728.5292814000004 kg(s)",
+        "types": [
+            "Frac Tank Trailer"
+        ]
+    },
+    {
+        "carga": "Frozen Food",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/9/9c/ATS_Cargo_icon_Frozen_Food.png/revision/latest?cb=20220829161527",
+        "peso": "15237.528485410001 kg(s)",
+        "types": [
+            "Refrigerated"
+        ]
+    },
+    {
+        "carga": "Frozen Fruits",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/f/fc/ATS_Cargo_icon_Frozen_Fruits.png/revision/latest?cb=20220829161548",
+        "peso": "12639.80498242 kg(s)",
+        "types": [
+            "Refrigerated"
+        ]
+    },
+    {
+        "carga": "Frozen Vegetables",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/1/1b/ATS_Cargo_icon_Frozen_Vegetables.png/revision/latest?cb=20220829161501",
+        "peso": "14849.707009060001 kg(s)",
+        "types": [
+            "Refrigerated"
+        ]
+    },
+    {
+        "carga": "Fruit Juice",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/5/5f/ATS_Cargo_icon_Fruit_Juice.png/revision/latest?cb=20220829130313",
+        "peso": "20999.96595389 kg(s)",
+        "types": [
+            "Food Tank"
+        ]
+    },
+    {
+        "carga": "Fruits",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/3/3d/ATS_Cargo_icon_Fruits.png/revision/latest?cb=20220829163810",
+        "peso": "17264.63278694 kg(s)",
+        "types": [
+            "Insulated",
+            "Refrigerated"
+        ]
+    },
+    {
+        "carga": "Furniture",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/3/3c/ATS_Cargo_icon_Furniture.png/revision/latest?cb=20220828183951",
+        "peso": "14594.33450475 kg(s)",
+        "types": [
+            "Dry Van",
+            "Insulated",
+            "Refrigerated",
+            "Sliding Tarp"
+        ]
+    },
+    {
+        "carga": "Garbage Truck",
+        "dlc": "Montana",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/c/c0/ATS_Cargo_icon_Garbage_Truck.png/revision/latest?cb=20221120061510",
+        "peso": "14968.54821 kg(s)",
+        "types": [
+            "Lowboy"
+        ]
+    },
+    {
+        "carga": "Gasoline",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/2/2e/ATS_Cargo_icon_Petrol.png/revision/latest?cb=20220829074753",
+        "peso": "15648.936765 kg(s)",
+        "types": [
+            "Fuel Tank"
+        ]
+    },
+    {
+        "carga": "Generator Set",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/b/b2/ATS_Cargo_icon_Generator_Set.png/revision/latest?cb=20221125134158",
+        "peso": "19999.794778040003 kg(s)",
+        "types": [
+            "Flatbed"
+        ]
+    },
+    {
+        "carga": "Giant Silo",
+        "dlc": "Special Transport DLC",
+        "icon": "",
+        "peso": "34999.64086157 kg(s)",
+        "types": [
+            "Lowboy Extendable Trailer"
+        ]
+    },
+    {
+        "carga": "Glass",
+        "dlc": "Texas",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/b/b2/ATS_Cargo_icon_Glass.png/revision/latest?cb=20221125134217",
+        "peso": "6799.80321867 kg(s)",
+        "types": [
+            "Drop Deck"
+        ]
+    },
+    {
+        "carga": "Glass Racks",
+        "dlc": "Texas",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/8/8c/ATS_Cargo_icon_Glass_Racks.png/revision/latest?cb=20221125134207",
+        "peso": "6799.80321867 kg(s)",
+        "types": [
+            "Drop Deck"
+        ]
+    },
+    {
+        "carga": "Grain",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/9/98/ATS_Cargo_icon_Grain.png/revision/latest?cb=20220828184848",
+        "peso": "18004.44194241 kg(s)",
+        "types": [
+            "Bulk Feed",
+            "Dry Bulk",
+            "Dry Van",
+            "Hopper",
+            "Insulated",
+            "Refrigerated",
+            "Sliding Tarp"
+        ]
+    },
+    {
+        "carga": "Gravel",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/a/a7/ATS_Cargo_icon_Gravel.png/revision/latest?cb=20220828165256",
+        "peso": "17.69010243 kg(s)",
+        "types": [
+            "Dumper"
+        ]
+    },
+    {
+        "carga": "Guard Rails",
+        "dlc": "Montana",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/f/f9/ATS_Cargo_icon_Guard_Rails.png/revision/latest?cb=20220828184652",
+        "peso": "19028.653513870002 kg(s)",
+        "types": [
+            "Dry Van",
+            "Sliding Tarp"
+        ]
+    },
+    {
+        "carga": "Gypsum",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/d/da/ATS_Cargo_icon_Gypsum.png/revision/latest?cb=20220829064553",
+        "peso": "18422.20051518 kg(s)",
+        "types": [
+            "Sliding Tarp"
+        ]
+    },
+    {
+        "carga": "Harvester",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/9/9e/ATS_Cargo_icon_Harvester.png/revision/latest?cb=20221119052121",
+        "peso": "19958.064280000002 kg(s)",
+        "types": [
+            "Lowboy",
+            "Lowboy Double",
+            "Lowboy Triple"
+        ]
+    },
+    {
+        "carga": "Haul Truck Chassis",
+        "dlc": "Special Transport DLC",
+        "icon": "",
+        "peso": "84999.58139904 kg(s)",
+        "types": [
+            "Lowboy Extendable Trailer"
+        ]
+    },
+    {
+        "carga": "Haul Truck Hull",
+        "dlc": "Special Transport DLC",
+        "icon": "",
+        "peso": "21999.68353737 kg(s)",
+        "types": [
+            "Lowboy Extendable Trailer"
+        ]
+    },
+    {
+        "carga": "Hay",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/7/78/ATS_Cargo_icon_Hay.png/revision/latest?cb=20220828115254",
+        "peso": "8763.4045884 kg(s)",
+        "types": [
+            "Chip Van",
+            "Drop Deck",
+            "Flatbed"
+        ]
+    },
+    {
+        "carga": "Heavy Bulldozer",
+        "dlc": "Heavy Cargo Pack",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/0/0c/ATS_Cargo_icon_Heavy_Bulldozer.png/revision/latest?cb=20221125111750",
+        "peso": "40369.72093 kg(s)",
+        "types": [
+            "Lowboy Triple"
+        ]
+    },
+    {
+        "carga": "Home Accessories",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/a/a4/ATS_Cargo_icon_Home_Accessories.png/revision/latest?cb=20220828184735",
+        "peso": "18413.58226015 kg(s)",
+        "types": [
+            "Dry Van",
+            "Insulated",
+            "Refrigerated",
+            "Sliding Tarp"
+        ]
+    },
+    {
+        "carga": "House Prefabs",
+        "dlc": "Oregon",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/d/d6/ATS_Cargo_icon_House_Prefabs.png/revision/latest?cb=20220828114957",
+        "peso": "16515.2981917 kg(s)",
+        "types": [
+            "Flatbed"
+        ]
+    },
+    {
+        "carga": "Household Appliances",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/a/a0/ATS_Cargo_icon_Household_Appliances.png/revision/latest?cb=20220828183504",
+        "peso": "9773.10120402 kg(s)",
+        "types": [
+            "Dry Van",
+            "Insulated",
+            "Refrigerated"
+        ]
+    },
+    {
+        "carga": "Huge Construction",
+        "dlc": "Special Transport DLC",
+        "icon": "",
+        "peso": "54999.88923198 kg(s)",
+        "types": [
+            "Lowboy Extendable Trailer"
+        ]
+    },
+    {
+        "carga": "Huge Tires",
+        "dlc": "Special Transport DLC",
+        "icon": "",
+        "peso": "19999.794778040003 kg(s)",
+        "types": [
+            "Flatbed (Extra-Large)"
+        ]
+    },
+    {
+        "carga": "Hydrochloric Acid",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/7/78/ATS_Cargo_icon_Hydrochloric_Acid.png/revision/latest?cb=20221120061539",
+        "peso": "18034.832631200003 kg(s)",
+        "types": [
+            "Acid Tank"
+        ]
+    },
+    {
+        "carga": "IBC Containers",
+        "dlc": "Montana",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/9/94/ATS_Cargo_icon_IBC_Containers.png/revision/latest?cb=20220828184326",
+        "peso": "9449.689844210001 kg(s)",
+        "types": [
+            "Dry Van",
+            "Sliding Tarp"
+        ]
+    },
+    {
+        "carga": "Ice Cream",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/8/86/ATS_Cargo_icon_Ice_Cream.png/revision/latest?cb=20220829164041",
+        "peso": "15653.019096330001 kg(s)",
+        "types": [
+            "Refrigerated"
+        ]
+    },
+    {
+        "carga": "Iron Pipes",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/9/9f/ATS_Cargo_icon_Iron_Pipes.png/revision/latest?cb=20220828115656",
+        "peso": "20457.015887 kg(s)",
+        "types": [
+            "Flatbed"
+        ]
+    },
+    {
+        "carga": "Kenworth Trucks",
+        "dlc": "Washington",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/9/93/ATS_Cargo_icon_Kenworth_Trucks.png/revision/latest?cb=20221125131115",
+        "peso": "26086.0971987 kg(s)",
+        "types": [
+            "Truck Transporter"
+        ]
+    },
+    {
+        "carga": "Knuckleboom Loader",
+        "dlc": "Forest Machinery",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/c/cf/ATS_Cargo_icon_Knuckleboom_Loader.png/revision/latest?cb=20221125121959",
+        "peso": "13879.926522000002 kg(s)",
+        "types": [
+            "Knuckleboom Loader Trailer"
+        ]
+    },
+    {
+        "carga": "Large Reservoir Tank",
+        "dlc": "Special Transport DLC",
+        "icon": "",
+        "peso": "34999.64086157 kg(s)",
+        "types": [
+            "Lowboy Extendable Trailer"
+        ]
+    },
+    {
+        "carga": "Large Tubes",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/b/bb/ATS_Cargo_icon_Large_Tubes.png/revision/latest?cb=20220828114914",
+        "peso": "19812.914721600002 kg(s)",
+        "types": [
+            "Flatbed",
+            "Log Trailer"
+        ]
+    },
+    {
+        "carga": "Lemonade",
+        "dlc": "Montana",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/8/80/ATS_Cargo_icon_Lemonade.png/revision/latest?cb=20220828095856",
+        "peso": "21736.1463704 kg(s)",
+        "types": [
+            "Container Carrier",
+            "Dry Van",
+            "Insulated",
+            "Refrigerated"
+        ]
+    },
+    {
+        "carga": "Lift Truck",
+        "dlc": "Heavy Cargo Pack",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/2/20/ATS_Cargo_icon_Lift_Truck.png/revision/latest?cb=20221125111831",
+        "peso": "53750.695845 kg(s)",
+        "types": [
+            "Lowboy Triple"
+        ]
+    },
+    {
+        "carga": "Lift Truck Chassis",
+        "dlc": "Heavy Cargo Pack",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/f/f4/ATS_Cargo_icon_Lift_Truck_Chassis.png/revision/latest?cb=20221125111817",
+        "peso": "42864.478965 kg(s)",
+        "types": [
+            "Lowboy Triple"
+        ]
+    },
+    {
+        "carga": "Limestone",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/9/95/ATS_Cargo_icon_Limestone.png/revision/latest?cb=20220828165346",
+        "peso": "170.09713875 kg(s)",
+        "types": [
+            "Dumper"
+        ]
+    },
+    {
+        "carga": "Live Cattle",
+        "dlc": "Colorado",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/1/1e/ATS_Cargo_icon_Live_Cattle.png/revision/latest?cb=20220829161046",
+        "peso": "15619.90685332 kg(s)",
+        "types": [
+            "Livestock Trailer"
+        ]
+    },
+    {
+        "carga": "Log Harvester",
+        "dlc": "Forest Machinery",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/0/09/ATS_Cargo_icon_Log_Harvester.png/revision/latest?cb=20221125122132",
+        "peso": "21999.229945000003 kg(s)",
+        "types": [
+            "Lowboy",
+            "Lowboy Double",
+            "Lowboy Triple"
+        ]
+    },
+    {
+        "carga": "Log Loader",
+        "dlc": "Forest Machinery",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/1/1f/ATS_Cargo_icon_Log_Loader.png/revision/latest?cb=20221125122147",
+        "peso": "48307.587405000006 kg(s)",
+        "types": [
+            "Lowboy Triple"
+        ]
+    },
+    {
+        "carga": "Log Stacker",
+        "dlc": "Forest Machinery",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/6/6d/ATS_Cargo_icon_Log_Stacker.png/revision/latest?cb=20221125122505",
+        "peso": "53977.49203 kg(s)",
+        "types": [
+            "Lowboy Triple"
+        ]
+    },
+    {
+        "carga": "Logs",
+        "dlc": "Oregon",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/9/90/ATS_Cargo_icon_Logs.png/revision/latest?cb=20220829053155",
+        "peso": "14141.19572712 kg(s)",
+        "types": [
+            "Log Trailer"
+        ]
+    },
+    {
+        "carga": "Lumber (beams)",
+        "dlc": "Oregon",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/1/14/ATS_Cargo_icon_Lumber_beams.png/revision/latest?cb=20220828115443",
+        "peso": "21386.8802455 kg(s)",
+        "types": [
+            "Flatbed",
+            "Log Trailer"
+        ]
+    },
+    {
+        "carga": "Lumber (boards)",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/a/a4/ATS_Cargo_icon_Lumber_boards.png/revision/latest?cb=20220828114628",
+        "peso": "17109.5041964 kg(s)",
+        "types": [
+            "Drop Deck",
+            "Flatbed"
+        ]
+    },
+    {
+        "carga": "Lye",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/c/cb/ATS_Cargo_icon_Lye.png/revision/latest?cb=20221120061556",
+        "peso": "18279.772511 kg(s)",
+        "types": [
+            "Acid Tank"
+        ]
+    },
+    {
+        "carga": "Machine Parts",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/8/88/ATS_Cargo_icon_Machine_Parts.png/revision/latest?cb=20220828095936",
+        "peso": "6531.730128 kg(s)",
+        "types": [
+            "Container Carrier"
+        ]
+    },
+    {
+        "carga": "Massive Tech Part",
+        "dlc": "Special Transport DLC",
+        "icon": "",
+        "peso": "44999.99184296 kg(s)",
+        "types": [
+            "Lowboy Extendable Trailer"
+        ]
+    },
+    {
+        "carga": "Meat",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/d/da/ATS_Cargo_icon_Meat.png/revision/latest?cb=20220829164120",
+        "peso": "13763.35328291 kg(s)",
+        "types": [
+            "Refrigerated"
+        ]
+    },
+    {
+        "carga": "Mercuric Chloride",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/7/74/ATS_Cargo_icon_Mercuric_Chloride.png/revision/latest?cb=20221120061647",
+        "peso": "18597.28717 kg(s)",
+        "types": [
+            "Chemical Tank"
+        ]
+    },
+    {
+        "carga": "Metal Coil",
+        "dlc": "Oregon",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/f/fa/ATS_Cargo_icon_Metal_Coil.png/revision/latest?cb=20220829164144",
+        "peso": "24493.98798 kg(s)",
+        "types": [
+            "Drop Deck",
+            "Flatbed"
+        ]
+    },
+    {
+        "carga": "Milk",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/d/d1/ATS_Cargo_icon_Milk.png/revision/latest?cb=20220829130238",
+        "peso": "20999.96595389 kg(s)",
+        "types": [
+            "Food Tank",
+            "Refrigerated"
+        ]
+    },
+    {
+        "carga": "Milling Machine",
+        "dlc": "Heavy Cargo Pack",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/c/c1/ATS_Cargo_icon_Milling_Machine.png/revision/latest?cb=20221125111947",
+        "peso": "43998.459890000006 kg(s)",
+        "types": [
+            "Lowboy Triple"
+        ]
+    },
+    {
+        "carga": "Mix Tank",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/6/67/ATS_Cargo_icon_Mix_Tank.png/revision/latest?cb=20221120061706",
+        "peso": "6985.322498 kg(s)",
+        "types": [
+            "Drop Deck",
+            "Lowboy"
+        ]
+    },
+    {
+        "carga": "Mobile Barrier",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/0/0c/ATS_Cargo_icon_Mobile_Barrier.png/revision/latest?cb=20221120061733",
+        "peso": "8119.303423 kg(s)",
+        "types": [
+            "Mobile Barrier Trailer"
+        ]
+    },
+    {
+        "carga": "Mooring Buoy",
+        "dlc": "Oregon",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/d/d1/ATS_Cargo_icon_Mooring_Buoy.png/revision/latest?cb=20220828114438",
+        "peso": "798.3225712000001 kg(s)",
+        "types": [
+            "Drop Deck",
+            "Flatbed"
+        ]
+    },
+    {
+        "carga": "Mortar",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/9/9f/ATS_Cargo_icon_Mortar.png/revision/latest?cb=20220829064621",
+        "peso": "18213.548024980002 kg(s)",
+        "types": [
+            "Sliding Tarp"
+        ]
+    },
+    {
+        "carga": "Mulcher",
+        "dlc": "Forest Machinery",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/5/52/ATS_Cargo_icon_Mulcher.png/revision/latest?cb=20221125122213",
+        "peso": "14968.54821 kg(s)",
+        "types": [
+            "Lowboy"
+        ]
+    },
+    {
+        "carga": "Nitrocellulose",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/5/59/ATS_Cargo_icon_Nitrocellulose.png/revision/latest?cb=20220828100008",
+        "peso": "17690.102430000003 kg(s)",
+        "types": [
+            "Container Carrier",
+            "Dry Van",
+            "Insulated",
+            "Refrigerated"
+        ]
+    },
+    {
+        "carga": "Nuts",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/1/1f/ATS_Cargo_icon_Nuts.png/revision/latest?cb=20220828183746",
+        "peso": "17830.26247233 kg(s)",
+        "types": [
+            "Dry Van",
+            "Insulated",
+            "Refrigerated",
+            "Sliding Tarp"
+        ]
+    },
+    {
+        "carga": "Office Supplies",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/a/a1/ATS_Cargo_icon_Office_Supplies.png/revision/latest?cb=20220828183548",
+        "peso": "16103.88991211 kg(s)",
+        "types": [
+            "Dry Van",
+            "Insulated",
+            "Refrigerated",
+            "Sliding Tarp"
+        ]
+    },
+    {
+        "carga": "Oil Pipes",
+        "dlc": "Texas",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/d/dc/ATS_Cargo_icon_Oil_Pipes.png/revision/latest?cb=20221125134234",
+        "peso": "19527.151528500002 kg(s)",
+        "types": [
+            "Flatbed"
+        ]
+    },
+    {
+        "carga": "Packaged Food",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/d/d1/ATS_Cargo_icon_Packaged_Food.png/revision/latest?cb=20220828101751",
+        "peso": "17990.38057894 kg(s)",
+        "types": [
+            "Container Carrier",
+            "Dry Van",
+            "Insulated",
+            "Refrigerated",
+            "Sliding Tarp"
+        ]
+    },
+    {
+        "carga": "Paint",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/5/5b/ATS_Cargo_icon_Paint.png/revision/latest?cb=20220829160819",
+        "peso": "18422.20051518 kg(s)",
+        "types": [
+            "Sliding Tarp"
+        ]
+    },
+    {
+        "carga": "Paper",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/d/d8/ATS_Cargo_icon_Paper.png/revision/latest?cb=20220828100144",
+        "peso": "14881.91206733 kg(s)",
+        "types": [
+            "Container Carrier",
+            "Dry Van",
+            "Insulated",
+            "Refrigerated",
+            "Sliding Tarp"
+        ]
+    },
+    {
+        "carga": "Pelleted Animal Food",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/f/f6/ATS_Cargo_icon_Pelleted_Animal_Food.png/revision/latest?cb=20220828184810",
+        "peso": "19499.935986300003 kg(s)",
+        "types": [
+            "Bulk Feed",
+            "Dry Bulk",
+            "Dry Van",
+            "Hopper",
+            "Insulated",
+            "Refrigerated"
+        ]
+    },
+    {
+        "carga": "Pesticides",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/c/c5/ATS_Cargo_icon_Pesticides.png/revision/latest?cb=20221120061744",
+        "peso": "14061.36347 kg(s)",
+        "types": [
+            "Chemical Tank"
+        ]
+    },
+    {
+        "carga": "Peterbilt Trucks",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/f/fc/ATS_Cargo_icon_Peterbilt_Trucks.png/revision/latest?cb=20221125131126",
+        "peso": "24856.861876000003 kg(s)",
+        "types": [
+            "Truck Transporter"
+        ]
+    },
+    {
+        "carga": "Plows",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/b/b0/ATS_Cargo_icon_Plows.png/revision/latest?cb=20220828113833",
+        "peso": "2999.60634281 kg(s)",
+        "types": [
+            "Flatbed"
+        ]
+    },
+    {
+        "carga": "Potassium",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/9/9f/ATS_Cargo_icon_Potassium.png/revision/latest?cb=20220828100224",
+        "peso": "18143.6948 kg(s)",
+        "types": [
+            "Container Carrier",
+            "Dry Van",
+            "Insulated",
+            "Refrigerated"
+        ]
+    },
+    {
+        "carga": "Potatoes",
+        "dlc": "Idaho",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/4/45/ATS_Cargo_icon_Potatoes.png/revision/latest?cb=20220828100257",
+        "peso": "23264.7526573 kg(s)",
+        "types": [
+            "Container Carrier",
+            "Dry Van",
+            "Hopper",
+            "Insulated",
+            "Refrigerated"
+        ]
+    },
+    {
+        "carga": "Power Generator",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/8/8f/ATS_Cargo_icon_Power_Generator.png/revision/latest?cb=20220828100324",
+        "peso": "14061.36347 kg(s)",
+        "types": [
+            "Container Carrier"
+        ]
+    },
+    {
+        "carga": "Pressure Tank",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/7/73/ATS_Cargo_icon_Pressure_Tank.png/revision/latest?cb=20220828113617",
+        "peso": "19908.1691193 kg(s)",
+        "types": [
+            "Drop Deck",
+            "Flatbed"
+        ]
+    },
+    {
+        "carga": "Propane",
+        "dlc": "",
+        "icon": "",
+        "peso": "14288.159655000001 kg(s)",
+        "types": [
+            "Gas Tank Trailer"
+        ]
+    },
+    {
+        "carga": "Pumpjack",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/1/10/ATS_Cargo_icon_Pumpjack.png/revision/latest?cb=20221125134243",
+        "peso": "1499.57637522 kg(s)",
+        "types": [
+            "Flatbed"
+        ]
+    },
+    {
+        "carga": "Rails",
+        "dlc": "Wyoming",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/1/1c/ATS_Cargo_icon_Rails.png/revision/latest?cb=20221125133358",
+        "peso": "19994.3516696 kg(s)",
+        "types": [
+            "Drop Deck",
+            "Flatbed"
+        ]
+    },
+    {
+        "carga": "Raw Milk",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/6/6e/ATS_Cargo_icon_Raw_Milk.png/revision/latest?cb=20220829130348",
+        "peso": "20999.96595389 kg(s)",
+        "types": [
+            "Food Tank"
+        ]
+    },
+    {
+        "carga": "Reservoir Tank",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/2/22/ATS_Cargo_icon_Reservoir_Tank.png/revision/latest?cb=20220828114301",
+        "peso": "10205.828325 kg(s)",
+        "types": [
+            "Drop Deck",
+            "Flatbed"
+        ]
+    },
+    {
+        "carga": "Rice",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/e/ed/ATS_Cargo_icon_Rice.png/revision/latest?cb=20220829064353",
+        "peso": "18574.153959130002 kg(s)",
+        "types": [
+            "Dry Van",
+            "Insulated",
+            "Refrigerated",
+            "Sliding Tarp"
+        ]
+    },
+    {
+        "carga": "Roadroller",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/e/e1/ATS_Cargo_icon_Roadroller.png/revision/latest?cb=20221120061805",
+        "peso": "9979.032140000001 kg(s)",
+        "types": [
+            "Drop Deck",
+            "Lowboy"
+        ]
+    },
+    {
+        "carga": "Salt",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/9/95/ATS_Cargo_icon_Salt.png/revision/latest?cb=20220828100354",
+        "peso": "21348.77848642 kg(s)",
+        "types": [
+            "Container Carrier",
+            "Dry Van",
+            "Insulated",
+            "Refrigerated",
+            "Sliding Tarp"
+        ]
+    },
+    {
+        "carga": "Sand",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/5/54/ATS_Cargo_icon_Sand.png/revision/latest?cb=20220828165222",
+        "peso": "18824.083355000002 kg(s)",
+        "types": [
+            "Dry Bulk",
+            "Dumper"
+        ]
+    },
+    {
+        "carga": "Sawdust Panels",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/1/1b/ATS_Cargo_icon_Sawdust_Panels.png/revision/latest?cb=20220829064435",
+        "peso": "16537.977810200002 kg(s)",
+        "types": [
+            "Sliding Tarp"
+        ]
+    },
+    {
+        "carga": "Scrap Metals",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/8/89/ATS_Cargo_icon_Scrap_Metals.png/revision/latest?cb=20220828165526",
+        "peso": "12411.194427940001 kg(s)",
+        "types": [
+            "Dumper"
+        ]
+    },
+    {
+        "carga": "Scraper",
+        "dlc": "Heavy Cargo Pack",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/6/6e/ATS_Cargo_icon_Scraper.png/revision/latest?cb=20221125112001",
+        "peso": "40823.3133 kg(s)",
+        "types": [
+            "Lowboy Triple"
+        ]
+    },
+    {
+        "carga": "Scrapped Cars",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/5/5f/ATS_Cargo_icon_Scrapped_Cars.png/revision/latest?cb=20220828113947",
+        "peso": "17612.9917271 kg(s)",
+        "types": [
+            "Chip Van",
+            "Flatbed"
+        ]
+    },
+    {
+        "carga": "Service Boat",
+        "dlc": "Special Transport DLC",
+        "icon": "",
+        "peso": "24999.743472550002 kg(s)",
+        "types": [
+            "Lowboy Extendable Trailer"
+        ]
+    },
+    {
+        "carga": "Silane",
+        "dlc": "Montana",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/3/3c/ATS_Cargo_icon_Silane.png/revision/latest?cb=20221125133520",
+        "peso": "6350.293180000001 kg(s)",
+        "types": [
+            "Container Carrier"
+        ]
+    },
+    {
+        "carga": "Silica",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/9/95/ATS_Cargo_icon_Silica.png/revision/latest?cb=20220829064529",
+        "peso": "16120.672829800002 kg(s)",
+        "types": [
+            "Sliding Tarp"
+        ]
+    },
+    {
+        "carga": "Soda Ash",
+        "dlc": "Wyoming",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/f/f7/ATS_Cargo_icon_Soda_Ash.png/revision/latest?cb=20220828100421",
+        "peso": "22039.59966593 kg(s)",
+        "types": [
+            "Container Carrier",
+            "Dry Van",
+            "Insulated",
+            "Refrigerated",
+            "Sliding Tarp"
+        ]
+    },
+    {
+        "carga": "Solvents",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/1/13/ATS_Cargo_icon_Solvents.png/revision/latest?cb=20220829074431",
+        "peso": "13607.7711 kg(s)",
+        "types": [
+            "Fuel Tank"
+        ]
+    },
+    {
+        "carga": "Space Container",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/c/c9/ATS_Cargo_icon_Space_Container.png/revision/latest?cb=20221125134252",
+        "peso": "12020.197805 kg(s)",
+        "types": [
+            "Lowboy"
+        ]
+    },
+    {
+        "carga": "Square Tubing",
+        "dlc": "Oregon",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/1/1c/ATS_Cargo_icon_Square_Tubing.png/revision/latest?cb=20220828115556",
+        "peso": "19994.3516696 kg(s)",
+        "types": [
+            "Drop Deck",
+            "Flatbed"
+        ]
+    },
+    {
+        "carga": "Stones",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/7/71/ATS_Cargo_icon_Stones.png/revision/latest?cb=20220828165654",
+        "peso": "17.69010243 kg(s)",
+        "types": [
+            "Dumper"
+        ]
+    },
+    {
+        "carga": "Stumper",
+        "dlc": "Forest Machinery",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/c/c5/ATS_Cargo_icon_Stumper.png/revision/latest?cb=20221125122248",
+        "peso": "17916.898615000002 kg(s)",
+        "types": [
+            "Lowboy",
+            "Lowboy Double",
+            "Lowboy Triple"
+        ]
+    },
+    {
+        "carga": "Sugar",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/c/c5/ATS_Cargo_icon_Sugar.png/revision/latest?cb=20220828101844",
+        "peso": "16604.65588859 kg(s)",
+        "types": [
+            "Container Carrier",
+            "Dry Van",
+            "Insulated",
+            "Refrigerated",
+            "Sliding Tarp"
+        ]
+    },
+    {
+        "carga": "Sugar Beet",
+        "dlc": "Montana",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/e/e1/ATS_Cargo_icon_Sugar_Beet.png/revision/latest?cb=20220829130417",
+        "peso": "12448.38900228 kg(s)",
+        "types": [
+            "Hopper"
+        ]
+    },
+    {
+        "carga": "Sulphuric Acid",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/7/78/ATS_Cargo_icon_Hydrochloric_Acid.png/revision/latest?cb=20221120061539",
+        "peso": "13834.567285000001 kg(s)",
+        "types": [
+            "Acid Tank"
+        ]
+    },
+    {
+        "carga": "Tableware",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/6/6c/ATS_Cargo_icon_Tableware.png/revision/latest?cb=20220828184029",
+        "peso": "17492.33615668 kg(s)",
+        "types": [
+            "Dry Van",
+            "Insulated",
+            "Refrigerated"
+        ]
+    },
+    {
+        "carga": "Talc Powder",
+        "dlc": "Montana",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/5/5c/ATS_Cargo_icon_Talc_Powder.png/revision/latest?cb=20221125133454",
+        "peso": "21374.63325151 kg(s)",
+        "types": [
+            "Dry Van",
+            "Insulated",
+            "Refrigerated",
+            "Sliding Tarp"
+        ]
+    },
+    {
+        "carga": "Tamping Machine",
+        "dlc": "Wyoming",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/3/39/ATS_Cargo_icon_Tamping_Machine.png/revision/latest?cb=20221125133632",
+        "peso": "27215.5422 kg(s)",
+        "types": [
+            "Lowboy Double",
+            "Lowboy Triple"
+        ]
+    },
+    {
+        "carga": "Tires",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/7/7a/ATS_Cargo_icon_Tyres.png/revision/latest?cb=20220828184100",
+        "peso": "15386.306782770002 kg(s)",
+        "types": [
+            "Dry Van",
+            "Insulated",
+            "Refrigerated",
+            "Sliding Tarp"
+        ]
+    },
+    {
+        "carga": "Toys",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/2/28/ATS_Cargo_icon_Toys.png/revision/latest?cb=20220828183833",
+        "peso": "13264.401675910001 kg(s)",
+        "types": [
+            "Dry Van",
+            "Insulated",
+            "Refrigerated",
+            "Sliding Tarp"
+        ]
+    },
+    {
+        "carga": "Tractor",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/9/98/ATS_Cargo_icon_Tractor.png/revision/latest?cb=20221125133705",
+        "peso": "13154.178730000001 kg(s)",
+        "types": [
+            "Drop Deck",
+            "Lowboy"
+        ]
+    },
+    {
+        "carga": "Train Axles",
+        "dlc": "Wyoming",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/9/95/ATS_Cargo_icon_Train_Axles.png/revision/latest?cb=20221125133810",
+        "peso": "12496.4697935 kg(s)",
+        "types": [
+            "Flatbed"
+        ]
+    },
+    {
+        "carga": "Transformer",
+        "dlc": "Heavy Cargo Pack",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/b/bf/ATS_Cargo_icon_Transformer.png/revision/latest?cb=20221125112014",
+        "peso": "56018.657695 kg(s)",
+        "types": [
+            "Lowboy Triple"
+        ]
+    },
+    {
+        "carga": "Transport Helicopter",
+        "dlc": "Special Transport DLC",
+        "icon": "",
+        "peso": "14999.846083530001 kg(s)",
+        "types": [
+            "Lowboy Extendable Trailer"
+        ]
+    },
+    {
+        "carga": "Trees",
+        "dlc": "Montana",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/c/cb/ATS_Cargo_icon_Trees.png/revision/latest?cb=20221125133846",
+        "peso": "3359.75868459 kg(s)",
+        "types": [
+            "Drop Deck",
+            "Flatbed"
+        ]
+    },
+    {
+        "carga": "Tub Grinder",
+        "dlc": "Forest Machinery",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/1/18/ATS_Cargo_icon_Tub_Grinder.png/revision/latest?cb=20221125122422",
+        "peso": "27215.5422 kg(s)",
+        "types": [
+            "Tub Grinder Trailer"
+        ]
+    },
+    {
+        "carga": "Turnkey House Construction",
+        "dlc": "Special Transport DLC",
+        "icon": "",
+        "peso": "19999.794778040003 kg(s)",
+        "types": [
+            "Home Transporter Trailer"
+        ]
+    },
+    {
+        "carga": "TVs",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/e/ef/ATS_Cargo_icon_TVs.png/revision/latest?cb=20220828100456",
+        "peso": "14672.352392390001 kg(s)",
+        "types": [
+            "Container Carrier",
+            "Dry Van",
+            "Insulated",
+            "Refrigerated"
+        ]
+    },
+    {
+        "carga": "Used Packaging",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/0/09/ATS_Cargo_icon_Used_Packaging.png/revision/latest?cb=20220828183911",
+        "peso": "15074.235232210001 kg(s)",
+        "types": [
+            "Chip Van",
+            "Dry Van",
+            "Insulated",
+            "Refrigerated",
+            "Sliding Tarp"
+        ]
+    },
+    {
+        "carga": "Utility Poles",
+        "dlc": "Montana",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/a/ab/ATS_Cargo_icon_Utility_Poles.png/revision/latest?cb=20221125133948",
+        "peso": "10419.92392364 kg(s)",
+        "types": [
+            "Flatbed",
+            "Log Trailer"
+        ]
+    },
+    {
+        "carga": "Vegetables",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/4/4a/ATS_Cargo_icon_Vegetables.png/revision/latest?cb=20220829164207",
+        "peso": "15348.65861606 kg(s)",
+        "types": [
+            "Insulated",
+            "Refrigerated"
+        ]
+    },
+    {
+        "carga": "Ventilation Shaft",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/f/fa/ATS_Cargo_icon_Ventilation_Shaft.png/revision/latest?cb=20220828114705",
+        "peso": "5399.56357248 kg(s)",
+        "types": [
+            "Drop Deck",
+            "Flatbed"
+        ]
+    },
+    {
+        "carga": "Waste Paper",
+        "dlc": "Montana",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/b/bb/ATS_Cargo_icon_Waste_Paper.png/revision/latest?cb=20221125133959",
+        "peso": "15074.235232210001 kg(s)",
+        "types": [
+            "Chip Van",
+            "Drop Deck",
+            "Dry Van",
+            "Flatbed",
+            "Insulated",
+            "Sliding Tarp"
+        ]
+    },
+    {
+        "carga": "Western Star Trucks",
+        "dlc": "Idaho",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/a/a2/ATS_Cargo_icon_Western_Star_Trucks.png/revision/latest?cb=20221125131135",
+        "peso": "23713.8091036 kg(s)",
+        "types": [
+            "Truck Transporter"
+        ]
+    },
+    {
+        "carga": "Wheel Loader",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/8/85/ATS_Cargo_icon_Wheel_Loader.png/revision/latest?cb=20221125132908",
+        "peso": "15422.140580000001 kg(s)",
+        "types": [
+            "Lowboy"
+        ]
+    },
+    {
+        "carga": "Wheel Loader Volvo L250H",
+        "dlc": "Volvo Construction Equipment DLC",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/e/e5/ATS_Cargo_icon_Wheel_Loader_Volvo_L250H.png/revision/latest?cb=20221125114419",
+        "peso": "35299.91901051 kg(s)",
+        "types": [
+            "Lowboy Double",
+            "Lowboy Triple"
+        ]
+    },
+    {
+        "carga": "Wheels with Volvo Rims",
+        "dlc": "Volvo Construction Equipment DLC",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/4/4c/ATS_Cargo_icon_Wheels_with_Volvo_Rims.png/revision/latest?cb=20221125114501",
+        "peso": "12499.64494009 kg(s)",
+        "types": [
+            "Flatbed"
+        ]
+    },
+    {
+        "carga": "Wind Turbine Nacelle",
+        "dlc": "Wyoming",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/4/4c/ATS_Cargo_icon_Wind_Turbine_Nacelle.png/revision/latest?cb=20221125134010",
+        "peso": "18506.568696000002 kg(s)",
+        "types": [
+            "Lowboy"
+        ]
+    },
+    {
+        "carga": "Wind Turbine Tower",
+        "dlc": "Wyoming",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/2/25/ATS_Cargo_icon_Wind_Turbine_Tower.png/revision/latest?cb=20221125134022",
+        "peso": "16782.917690000002 kg(s)",
+        "types": [
+            "Lowboy"
+        ]
+    },
+    {
+        "carga": "Wood Shavings",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/1/11/ATS_Cargo_icon_Wood_Shavings.png/revision/latest?cb=20220828165444",
+        "peso": "18581.86502942 kg(s)",
+        "types": [
+            "Chip Van",
+            "Dumper"
+        ]
+    },
+    {
+        "carga": "Yogurt",
+        "dlc": "",
+        "icon": "https://static.wikia.nocookie.net/euro-truck-simulator-2/images/7/7e/ATS_Cargo_icon_Yogurt.png/revision/latest?cb=20220829164229",
+        "peso": "16908.562776490002 kg(s)",
+        "types": [
+            "Refrigerated"
+        ]
+    }
+]
