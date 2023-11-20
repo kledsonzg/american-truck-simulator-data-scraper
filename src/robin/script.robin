@@ -1,0 +1,62 @@
+@@ConnectionString: ''
+@@Type: 'Local'
+@@DesktopType: 'local'
+@@DisplayName: 'Computador local'
+IMPORT 'controlRepo.appmask' AS appmask
+IMPORT 'imageRepo.imgrepo' AS imgrepo
+@SENSITIVE: []
+Variables.CreateNewList List=> URLs
+Variables.AddItemToList Item: $'''https://truck-simulator.fandom.com/wiki/American_Truck_Simulator_Cargo_types''' List: URLs
+Variables.AddItemToList Item: $'''https://truck-simulator.fandom.com/wiki/List_of_Cities_in_American_Truck_Simulator''' List: URLs
+Variables.AddItemToList Item: $'''https://truck-simulator.fandom.com/wiki/American_Truck_Simulator_Companies''' List: URLs
+SET URL TO URLs[0]
+WebAutomation.LaunchEdge.AttachToTheForegroundEdge AttachTimeout: 5 BrowserInstance=> Browser
+ON ERROR
+
+END
+IF IsEmpty(Browser) THEN
+    WebAutomation.LaunchEdge.LaunchEdgeNoWait Url: URL WindowState: WebAutomation.BrowserWindowState.Maximized ClearCache: False ClearCookies: False Timeout: 60 BrowserInstance=> Browser
+    CALL Start
+ELSE
+    WebAutomation.GoToWebPage.GoToWebPageCloseDialog BrowserInstance: Browser Url: URL WaitForPageToLoadTimeout: 60
+    CALL Start
+END
+FUNCTION Start GLOBAL
+    SET instance TO $'''null'''
+    IF IsNotEmpty(Browser) THEN
+        SET instance TO Browser
+    ELSE
+        EXIT Code: 0 ErrorMessage: $'''Não foi possível obter a instância do navegador.'''
+    END
+    LOOP LoopIndex FROM 0 TO URLs.Count STEP 1
+        IF LoopIndex = 3 THEN
+            EXIT LOOP
+        END
+        IF LoopIndex <> 0 THEN
+            SET URL TO URLs[LoopIndex]
+            WebAutomation.GoToWebPage.GoToWebPage BrowserInstance: instance Url: URL WaitForPageToLoadTimeout: 60
+        END
+        CALL Scrape
+    END
+    File.ReadTextFromFile.ReadText File: $'''W:\\Programming\\Power Automate\\truck-simulator-extract\\src\\charp\\export.cs''' Encoding: File.TextFileEncoding.UTF8 Content=> scriptText
+    Scripting.RunDotNetScript Language: System.DotNetActionLanguageType.CSharp Script: scriptText @'name:cargosJson': cargosJson @'type:cargosJson': $'''String''' @'direction:cargosJson': $'''In''' @'name:citiesJson': citiesJson @'type:citiesJson': $'''String''' @'direction:citiesJson': $'''In''' @'name:companiesJson': companiesJson @'type:companiesJson': $'''String''' @'direction:companiesJson': $'''In'''
+    DISABLE Variables.ConvertJsonToCustomObject Json: resultJson CustomObject=> resultObj
+END FUNCTION
+FUNCTION Scrape GLOBAL
+    SET pageLoaded TO $'''false'''
+    LOOP WHILE (pageLoaded) = ($'''false''')
+        File.ReadTextFromFile.ReadText File: $'''W:\\Programming\\Power Automate\\truck-simulator-extract\\src\\js\\content-loaded-checker.js''' Encoding: File.TextFileEncoding.UTF8 Content=> scriptText
+        WebAutomation.ExecuteJavascript BrowserInstance: instance Javascript: scriptText Result=> pageLoaded
+    END
+    SWITCH URL
+        CASE = URLs[0]
+            File.ReadTextFromFile.ReadText File: $'''W:\\Programming\\Power Automate\\truck-simulator-extract\\src\\js\\cargo.js''' Encoding: File.TextFileEncoding.UTF8 Content=> scriptText
+            WebAutomation.ExecuteJavascript BrowserInstance: instance Javascript: scriptText Result=> cargosJson
+        CASE = URLs[1]
+            File.ReadTextFromFile.ReadText File: $'''W:\\Programming\\Power Automate\\truck-simulator-extract\\src\\js\\cities.js''' Encoding: File.TextFileEncoding.UTF8 Content=> scriptText
+            WebAutomation.ExecuteJavascript BrowserInstance: instance Javascript: scriptText Result=> citiesJson
+        CASE = URLs[2]
+            File.ReadTextFromFile.ReadText File: $'''W:\\Programming\\Power Automate\\truck-simulator-extract\\src\\js\\companies.js''' Encoding: File.TextFileEncoding.UTF8 Content=> scriptText
+            WebAutomation.ExecuteJavascript BrowserInstance: instance Javascript: scriptText Result=> companiesJson
+    END
+END FUNCTION
