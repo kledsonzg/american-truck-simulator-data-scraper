@@ -17,28 +17,25 @@ function ExecuteScript()
         {
             let column = columns[j];
 
-            switch(j)
+            //Cidade
+            if(j == 0)
             {
-                //Cidade
-                case 0:
-                    try
+                try
+                {
+                    for(let k = 0; k < column.children.length; k++)
                     {
-                        for(let k = 0; k < column.children.length; k++)
-                        {
-                            let element = column.children[k];
-                            if(element.tagName.toLowerCase() != 'a')
-                                continue;
+                        let element = column.children[k];
+                        if(element.tagName.toLowerCase() != 'a')
+                            continue;
 
-                            city = element.innerHTML;
-                            break;
-                        }
+                        city = element.innerHTML;
+                        break;
                     }
-                    catch(e) { break; }
-                    break;
-
-                //Nenhum desses acima.
-                default: break;
+                }
+                catch(e) { console.log('Exceção lançada: ' + e); }
             }
+            //Outras informações
+            else continue;
         }
 
         if(typeof city === 'string' && city != '')
